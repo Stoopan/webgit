@@ -378,6 +378,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="A TEST FOLDER\" />
     <Folder Include="App_Data\" />
   </ItemGroup>
   <PropertyGroup>

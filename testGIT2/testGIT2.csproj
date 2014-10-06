@@ -145,6 +145,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="A TEST FOLDER\HtmlPage1.html" />
     <Content Include="About.aspx" />
     <Content Include="Account\AddPhoneNumber.aspx" />
     <Content Include="Account\Confirm.aspx" />
@@ -378,7 +379,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="A TEST FOLDER\" />
     <Folder Include="App_Data\" />
   </ItemGroup>
   <PropertyGroup>
